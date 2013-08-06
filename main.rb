@@ -25,4 +25,4 @@ end
 anfitrion = Anfitrion.new("nicolas")
 anfitrion.saludar
 
-#puts Anfitrion.instance_methods
+puts Anfitrion.instance_methods
