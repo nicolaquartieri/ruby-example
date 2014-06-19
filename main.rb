@@ -25,5 +25,5 @@ end
 anfitrion = Anfitrion.new("nicolas")
 anfitrion.saludar
 
-# Print all internal exposed methods
+## Print all internal exposed methods
 puts Anfitrion.instance_methods
