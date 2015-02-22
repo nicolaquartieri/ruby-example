@@ -1,6 +1,6 @@
 class Anfitrion
   # Creamos el objeto
-  def initialize(nombre = "Mundo")
+  def initialize(nombre = "Mundo.")
     @nombres = nombre
     #@nombres = ["Pepe", "Juan", "Matias"]
   end
